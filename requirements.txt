@@ -1,0 +1,6 @@
+pandas
+matplotlib
+scikit-learn
+scipy
+hdbscan
+numpy
